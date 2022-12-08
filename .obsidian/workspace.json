@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "ebb0a88eb14fdbcb",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe2419436629d3e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "431bf8966b89983c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths for datascience/2_Set theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98ef27b5f79c6e78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths for datascience/5_Rectangular Co-ordinate system.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52c60bbc380d9fa8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ee37dd5854a489b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52de86a68f8134c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b69b6aaa9ffc928a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "08b238af7e815e38",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7cd7df6a858077de",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c26db00bb7a2791",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf0afa533cea29c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Maths for datascience/5_Rectangular Co-ordinate system.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0c968d0ebcbac33d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Maths for datascience/5_Rectangular Co-ordinate system.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df5944ddcab9bd04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c91b67be08097f3f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Maths for datascience/5_Rectangular Co-ordinate system.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "52de86a68f8134c0",
+  "lastOpenFiles": [
+    "Maths for datascience/2_Set theory.md",
+    "Maths for datascience/3_Relations.md",
+    "Maths for datascience/4_Functions.md",
+    "Maths for datascience/1_Introduction.md",
+    "Statistics for datascience/Permutation_and_combination/2_Permutation.md",
+    "Statistics for datascience/Permutation_and_combination/1_Introduction (week 5).md",
+    "Statistics for datascience/Permutation_and_combination/3_Combinations.md",
+    "Permutation_and_combination/Annotation lab.md",
+    "Statistics for datascience/Probability/Introduction.md",
+    "Probability/Hellow.md"
+  ]
+}
